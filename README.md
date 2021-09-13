@@ -1,0 +1,3 @@
+- 👋 This is the main repository for Twinkling Stars. My nickname is Silver.
+- 👀 I'm a freelance contractor, specialized in .NET.
+- 🌱 I’m a fast learner, interested in almost everything.
